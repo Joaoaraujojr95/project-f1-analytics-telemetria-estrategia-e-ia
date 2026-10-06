@@ -212,7 +212,7 @@ F1-Analytics-Telemetria-Estrategia-e-IA/
 ## 👨‍💻 Autor
 
 Projeto desenvolvido para o **Desafio de Projeto DIO - Montando seu Segundo Cérebro com IA**.  
-* **Autor:** João Araújo Jr.  
+* **Autor:** João Araujo Jr.  
 * **GitHub:** [@Joaoaraujojr95](https://github.com/Joaoaraujojr95)  
 * **Repositório do Projeto:** [F1 Analytics: Telemetria, Estratégia e IA](https://github.com/Joaoaraujojr95/F1-Analytics-Telemetria-Estrat-gia-e-IA)
 
