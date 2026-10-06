@@ -157,7 +157,7 @@ Abaixo estão as consultas reais processadas no Gemini Notebook, comprovando a r
 
 ## 🎨 Materiais Gerados no Estúdio (Studio do NotebookLM)
 
-A partir da leitura das fontes, foram consolidados os seguintes materiais no Estúdio:
+A partir da leitura das fontes, foram consolidados os seguintes materiais no Estúdio: 
 
 1. 🗺️ **Mapa Mental (Mind Map):**  
    - Diagrama completo integrando Telemetria, Janelas de Clima, Estratégia de Pit Stop, Fator Acaso e Projeção do Campeonato.  
